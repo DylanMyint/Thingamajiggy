@@ -31,3 +31,7 @@ nav a:hover{
 .doohickeyContainer{
     flex: 1;
 }
+
+.column{
+    flex-direction: column;
+}
